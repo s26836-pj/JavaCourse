@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>Tech Company</name>
+    <founded>2022-01-01T00:00:00</founded>
+    <employeeList>
+        <employee>
+            <id>1</id>
+            <name>John Doe</name>
+            <age>30</age>
+            <position>Software Engineer</position>
+        </employee>
+        <employee>
+            <id>2</id>
+            <name>Jane Smith</name>
+            <age>28</age>
+            <position>Product Manager</position>
+        </employee>
+    </employeeList>
+</company>
